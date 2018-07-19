@@ -1,1 +1,2 @@
 # android-logo
+Made the Android logo in HTML/CSS with help from The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css) and [The Code Player](http://thecodeplayer.com/walkthrough/css3-android-logo).
